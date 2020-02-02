@@ -112,5 +112,6 @@ description: "Intended as a documentation theme based on Jekyll for technical wr
 # needed for sitemap.xml file only
 # url: http://idratherbewriting.com
 baseurl: test_jekyll_doc
+#url: https://jeff-test999.github.io/
 
 github: [metadata]

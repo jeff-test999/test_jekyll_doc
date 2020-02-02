@@ -1,5 +1,5 @@
 # This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
-
+# I add Product 3
 entries:
 - title: Sidebar
   levels: one
@@ -19,4 +19,7 @@ entries:
       output: web
     - title: Product 2
       url: /p2_landing_page.html
+      output: web
+   - title: Product 3
+      url: /p3_landing_page.html
       output: web
